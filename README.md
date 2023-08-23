@@ -1,0 +1,2 @@
+# AssetPackages
+個人的なGameMakerのパッケージの予定
